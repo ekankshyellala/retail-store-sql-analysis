@@ -1,0 +1,99 @@
+Q1 Display all customer details.
+Q2 Display all orders.
+Q3 Show only CustomerName and City.
+Q4 Find all customers from Hyderabad.
+Q5 Find all female customers.
+Q6 Show all orders placed after '2024-01-01'.
+Q7 Find products whose price is greater than 5000.
+Q8 Find orders where quantity is greater than 3.
+Q9 Display unique categories.
+Q10 Find customers whose names start with 'A'.
+Q11 Find customers whose names end with 'n'.
+Q12 Show customers who signed up in 2023.
+Q13 Sort orders by price descending.
+Q14 Display the top 5 most expensive orders.
+Q15 Find products between ₹1000 and ₹5000.
+Q16 Count total customers.
+Q17 Count customers city-wise.
+Q18 Count customers gender-wise.
+Q19 Find total revenue.
+Q20 Find total revenue category-wise.
+Q21 Find average product price.
+Q22 Find highest priced product.
+Q23 Find lowest priced product.
+Q24 Find average quantity sold by category.
+Q25 Find total quantity sold for each product.
+Q26 Find products having more than 20 quantities sold.
+Q27 Find cities having more than 5 customers.
+Q28 Find average order value by category.
+Q29 Find maximum order value in each category.
+Q30 Find minimum order value in each category.
+Q31 Display customer names with their orders.
+Q32 Display customer name, city, product, quantity, price.
+Q33 Find total spending by each customer.
+Q34 Find top 5 highest spending customers.
+Q35 Find customers who never placed an order.
+Q36 Find customers who placed at least one order.
+Q37 Find number of orders per customer.
+Q38 Find average order value per customer.
+Q39 Find each customer's latest order.
+Q40 Find each customer's first order.
+Q41 Find customers who spent more than average customer spending.
+Q42 Find products priced above average price.
+Q43 Find customers who placed the maximum number of orders.
+Q44 Find the second highest priced order.
+Q45 Find the third highest priced order.
+Q46 Find customers who bought Electronics.
+Q47 Find customers who never bought Electronics.
+Q48 Find categories whose revenue is above average category revenue.
+Q49 Find products ordered only once.
+Q50 Find products ordered more than 5 times.
+Q51 Assign ROW_NUMBER() to every order.
+Q52 Rank customers based on total spending.
+Q53 Dense rank products by price.
+Q54 Find top 3 customers by spending.
+Q55 Find top 2 products in every category.
+Q56 Find second most expensive order in every category.
+Q57 Calculate running revenue by order date.
+Q58 Calculate running revenue customer-wise.
+Q59 Calculate cumulative quantity sold.
+Q60 Calculate average order value category-wise using window functions.
+Q61 Show previous order price for every customer.
+Q62 Show next order price.
+Q63 Calculate difference from previous order.
+Q64 Calculate percentage increase/decrease from previous order.
+Q65 Find customers whose spending decreased.
+Q66 Find customers whose spending increased.
+Q67 Find customers whose latest order is their highest order.
+Q68 Find customers whose latest order is their lowest order.
+Q69 Identify peak order prices.
+Q70 Identify valley order prices.
+Q71 Which city generates the highest revenue?
+Q72 Which category generates the highest revenue?
+Q73 Which product sells the most quantity?
+Q74 Which product generates the most revenue?
+Q75 Which customer generated the highest revenue?
+Q76 Which month generated the highest revenue?
+Q77 Which month had the highest number of orders?
+Q78 Which city has the highest average order value?
+Q79 Which category has the highest average quantity?
+Q80 Which customers haven't ordered in the last 6 months?
+Q81 Find repeat customers (more than 3 orders).
+Q82 Find one-time customers.
+Q83 Calculate each customer's contribution (%) to total revenue.
+Q84 Calculate category contribution (%) to total revenue.
+Q85 Find monthly revenue trend.
+Q86 Calculate Month-over-Month (MoM) revenue growth.
+Q87 Find customers whose every order amount increased.
+Q88 Find customers whose every order amount decreased.
+Q89 Find the longest streak of increasing purchases.
+Q90 Find customers who purchased in consecutive months.
+Q91 Find top-selling product in every city.
+Q92 Find the first product purchased by every customer.
+Q93 Find the last product purchased by every customer.
+Q94 Find customers who bought products from every category.
+Q95 Find categories with no sales in the last 3 months.
+Q96 Find customers who placed multiple orders on the same day.
+Q97 Find products never purchased.
+Q98 Find duplicate orders (same customer, product, date).
+Q99 Find the average gap (days) between customer orders.
